@@ -33,8 +33,8 @@
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
         "Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
         "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.10",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "AssemblyVersion": "v1.0",
+        "RepoUrl": "https://github.com/JeBakkes/Cammy",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "utility"
